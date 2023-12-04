@@ -1,7 +1,7 @@
-#Overview
+# Overview
 The TV Show Tracker App is an Android application that allows users to discover TV shows from an API server, add their favorite shows to an isolated list, and track the episodes they've watched. The app is built using the MVVM architecture and incorporates various Android libraries and design principles for a seamless user experience.
 
-#Features
+# Features
 MVVM Architecture: The app follows the Model-View-ViewModel architectural pattern, promoting separation of concerns and maintainability.
 
 Retrofit: Network requests are made using Retrofit to fetch TV show data from the API server.
@@ -16,7 +16,7 @@ Material Design: Adheres to Google's Material Design guidelines for a modern and
 
 Data Binding: Leverages data binding to bind UI components in layouts to data sources, reducing boilerplate code.
 
-#Usage
+# Usage
 Discover Shows:
 Browse through a list of TV shows fetched from the API server.
 
